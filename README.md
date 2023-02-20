@@ -1,2 +1,2 @@
-# PreCourse-henry
-Este es un repositorio de prueba de henry 
+este proyecto es una prubea de como crear un repositorio y clonarlo a nuestra pc
+Miguel Gonzalez
